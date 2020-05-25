@@ -1,0 +1,5 @@
+The Le -- Update Background + Kich thuoc bang noi dung +  opacity(0.9)
+NhapCode -- Background 
+ThamGia -- Background
+Danh sach trung thuong -- Background + Data + Hinh giai thuong
+Danh sach trung thuong(Deatil) -- Background

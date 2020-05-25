@@ -1,0 +1,15 @@
+Allow you to create every component as a functional component
+
+From "class" to () => {...}
+
+state + setState ==> useState(...)
+
+container Component ->
+
+
+control every element state 
+instead update setState all elements state
+
+const [state1, setState1] = useState(true)
+---------------------------- set state1 = true
+

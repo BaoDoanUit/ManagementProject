@@ -1,0 +1,11 @@
+-- Master Data
++++ Product
+ Pages___Product By Account (update enddate before import new list products by account)
+ Tool_ImportProductByAccount (Check enddate all model has enddate yet)
+ ListedPrice_Template
++++ Employee
+ Update Import File (full information employee (EmployeeAdditional))
+
+
+
+

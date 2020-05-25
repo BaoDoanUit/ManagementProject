@@ -1,0 +1,14 @@
+
+--Master dau vao
+Nhan vien
+ - Tao them  (Bang EmployeeAdditional)
+Cua hang 'DONE'
+San pham 
+ - Dang ki theo chuoi (Cao Phong, AEON) 'DONE'
+ - dang ki gia theo (MT, GT) 'DONE'
+
+--Tool Import master data dau vao
+
+An menu Report Tool, Training Online.
+Report SellOut
+
