@@ -1,21 +1,38 @@
--- Master Data
-+++ Product
- Pages___Product By Account (update enddate before import new list products by account)
- Add Product State
- Tool_ImportProductByAccount (Check enddate all model has enddate yet)
- ListedPrice_Template
+'GROUPESEB'
+SETTING
+--MASTER DATA
++++ Product Attribute
+ |View
+	
+ |Tools
+	Import Product By Account // Check enddate all model yet // Checked // Import
+	Import Product List Price // 
+ |Reports
+	
+ 
 +++ Employee
  Update Import File (Full information employee (EmployeeAdditional))
-+++ Outlet
+ Pages
+	Filter // Trạng thái nhân viên (DL, TS, NV)
+
++++ Outlets
  Update Import File (Full information outlet)
 
+PERFORMANCE
 --DATA RAW
 +++ SELLOUT
- Pages
-	-- Check edit/ delete data
- Report
-	-- Check data raw
+ |Pages
+	-- Check edit // delete data
+	-- Filter // ++Brand ++Channel
+	-- Hide // --Duplicate --TheoThang
+ |Report
+	-- Check data raw (Thay đổi template)
 +++ DISPLAY
+ |Pages
+	-- Check edit// delete data
+	-- Check tool// import data
+ |Reports
+	-- Check data
 
 
 

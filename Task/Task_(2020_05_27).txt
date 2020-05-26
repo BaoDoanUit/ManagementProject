@@ -1,0 +1,18 @@
+Products
+-- Import Product By Account
+-- Import Product List Price
+
+Employees
+-- Import Employees (Key_EmployeeCode) // Full Information
+
+Outlet 
+-- Import Outlets (Key_ShopCode)
+
+Working Plan
+-- Checked (DONE)
+
+Display
+-- Filter // Dynamic Filter (Optional filter) || 
+
+SellOut
+-- Filter // Dynamic Filter (Optional filter)
