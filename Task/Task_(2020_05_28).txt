@@ -1,0 +1,29 @@
+YESTERDAY
+	Products
+-- Import Product By Account (Progress)
+-- Import Product List Price (Done)
+
+	Employees
+-- Import Employees (Key_EmployeeCode) // Full Information (Checked)
+
+	Outlet 
+-- Import Outlets (Key_ShopCode) // Full Information (Checked)
+
+	Working Plan
+-- Checked (DONE)
+
+	Display
+-- Filter // Dynamic Filter (Optional filter) || 
+
+	SellOut
+-- Filter // Dynamic Filter (Optional filter)
+
+TODAY
+	Products
+-- Import Product By Account (Progress) // (DONE)
+
+	Employees
+-- Import Employees (Key_EmployeeCode) // Full Information (Checked) 
+
+	Outlet 
+-- Import Outlets (Key_ShopCode) // Full Information (Checked)
