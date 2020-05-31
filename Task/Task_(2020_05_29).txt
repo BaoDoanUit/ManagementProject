@@ -19,4 +19,10 @@ TODAY
 -- Filter // Dynamic Filter (Optional filter) || 
 
 	SellOut
--- Filter // Dynamic Filter (Optional filter)
+-- Filter // Dynamic Filter (Optional filter) ||
+
+	Edit Working Plan
+-- Checked tool 
+	
+	TimeShift
+-- Pages Thêm cột

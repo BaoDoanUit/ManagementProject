@@ -1,0 +1,38 @@
+Database --- Daikin (ProjectId)
+tao project (0520) Sys1/Sys2
+tao menu mobile
+tao menu admin
+
+
+adminDaikin1
+adminDaikin2
+
+demo1
+demo2
+
+copy source 
+
+Daikin1 Input
+++ Thong tin khach hang (update theo brief)
+++ Show for
+
+Daikin2 Input
+++ sô điện thoại
+++ tick luckywheel  -> show form chụp hình -> (2 tấm) -> Button chuyển trang lucky wheel
+
+
+1/ tao 2 dự án daikin1_0520 và daikin2_0520
+2/ tao menu cho giao dien mobile trong bảng Mobilefunction 2 dự án vua tao bước 1.
+3/ Tạo 2 tai khoản admin la: admindaikin1 ; admindaikin2 và 2 tk demo : demodaikin1 va demodaikin2
+4/ tao 2 menu xem báo cáo cho 2 dự án tao buoc 1 trong bang menu, 
+xem chấm cong, thong tin KH, 
+hinh hóa đơn và phiếu mua hàng, hình anh hoat dong.
+II/ Web
+1/ Web mobile: copy 2 du ăn cũ, tạo thanh 2 du án mới trong project hiên thành.
+đoi voi daikin1: thong tin KH bao gôm: sđt, ho ten KH và option chọn: có tiếp xuc boot và ko tiếp xuc booth.
+--- chup hinh hoat đong.
+Doi voi daikin 2: thong tin Kh bao gom: sdt, ho ten KH và option: có tiếp xuc booth va kho tiep xuc booth.
+- check: Luckwwell, hiên thi ra button chup hinh hóa đon, voucher, kiểm tra nêu đủ 2 hinh thi hiển thi button Luckywwel, bấm vào ra vong quay.
+
+
+
